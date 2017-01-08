@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BC",
-    "currentPage": "audiobooks.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1037,6 +1037,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "msg-box5-1w",
           "_params": {
             "imageSize": "27",
@@ -1083,12 +1088,7 @@
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "Award nominated narrator <a href=\"http://mattaddis.com\" target=\"_blank\">Matt Addis</a> reads Ordeal by Fire, the second Bradecote &amp; Catchpoll book, released by Isis Audio books.  ",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
