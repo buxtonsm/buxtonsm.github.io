@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BC",
-    "currentPage": "background-language.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,8 +21,8 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 156,
-    "versionPublish": "3.10.5",
+    "uniqCompNum": 173,
+    "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
@@ -130,7 +130,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Books.html\">Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "msg-box5",
@@ -380,7 +380,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Books.html\">Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -760,7 +760,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Books.html\">Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1006,7 +1006,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Books.html\">Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1291,7 +1291,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Books.html\">Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1647,7 +1647,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Books.html\">Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1819,7 +1819,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Books.html\">Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -2019,7 +2019,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Books.html\">Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -2080,99 +2080,6 @@
         "meta_descr": "Article on fictional Serjeant Catchpoll\n Bradecote & Catchpoll series \nMediaeval Worcester fiction"
       },
       "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-family": "'Droid Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
-              "font-size": "20px"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.85rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.921rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#c4ae68"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#cebc82!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#d2c28d"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#b68e0e!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-29",
-          "_params": {
-            "bgColor": "#d2c28d",
-            "fontSize": "0.85",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sh-logo-595x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "http://bradecoteandcatchpoll.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "alert",
-              "family": "MobiriseIcons",
-              "link": "http://bradecoteandcatchpoll.com",
-              "size": 0,
-              "newWindow": false
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Books.html\">Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
         {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
@@ -2247,6 +2154,95 @@
           "title": "SOLID COLOR INTRO",
           "text": "Full screen intro with color background.<br>Buttons, text and title are aligned to the left.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#c4ae68"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#cebc82!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#d2c28d"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#b68e0e!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-4k",
+          "_params": {
+            "bgColor": "#d2c28d",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/sh-logo-595x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://bradecoteandcatchpoll.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -2347,7 +2343,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Books.html\">Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -2523,7 +2519,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Books.html\">Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -2699,7 +2695,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Books.html\">Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -2875,7 +2871,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Books.html\">Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -3051,7 +3047,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Books.html\">Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -3399,7 +3395,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Books.html\">Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -3579,7 +3575,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Books.html\">Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -3926,99 +3922,6 @@
       "components": [
         {
           "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-family": "'Droid Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
-              "font-size": "20px"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.85rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.921rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#c4ae68"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#cebc82!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#d2c28d"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#b68e0e!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-3d",
-          "_params": {
-            "bgColor": "#d2c28d",
-            "fontSize": "0.85",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sh-logo-595x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "http://bradecoteandcatchpoll.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "alert",
-              "family": "MobiriseIcons",
-              "link": "http://bradecoteandcatchpoll.com",
-              "size": 0,
-              "newWindow": false
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Books.html\">Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
             },
@@ -4124,15 +4027,7 @@
           "title": "SOLID COLOR INTRO",
           "text": "Full screen intro with color background.<br>Buttons, text and title are aligned to the left.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
-        }
-      ]
-    },
-    "Extract-servant.html": {
-      "settings": {
-        "title": "Extract from Servant of Death",
-        "meta_descr": "Extract from the novel Servant of Death by Sarah Hawkswood"
-      },
-      "components": [
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -4189,7 +4084,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-45",
+          "_anchor": "menu-4k",
           "_params": {
             "bgColor": "#d2c28d",
             "fontSize": "0.85",
@@ -4215,17 +4110,21 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "alert",
-              "family": "MobiriseIcons",
-              "link": "http://bradecoteandcatchpoll.com",
-              "size": 0,
-              "newWindow": false
+              "link": "https://mobirise.com",
+              "size": 0
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Books.html\">Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        }
+      ]
+    },
+    "Extract-servant.html": {
+      "settings": {
+        "title": "Extract from Servant of Death",
+        "meta_descr": "Extract from the novel Servant of Death by Sarah Hawkswood"
+      },
+      "components": [
         {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
@@ -4262,15 +4161,7 @@
             "bgColor": "#d2c28d"
           },
           "text": "<p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Copyright Sarah Hawkswood 2015</b><br></p><p><br></p><p>The acting under-sheriff began by asking about the events after Vespers.</p><p>Elias regarded Bradecote with a look of composure. 'Let us not creep towards what you seek. It was I who found the corpse, my lord, so it is what you want to know about. I admit that it fair took me aback for a moment or so, and then I came out into the cloister, where Abbot William was leading the brothers to Compline, and told what I'd found.'</p><p>'What exactly were you doing in the workshop, Master Elias? Your men had gone into the town, yes?'</p><p>The master mason was quite prepared for the question, and answered promptly enough.</p><p>'Aye, my lord. I gave them an hour or so off, but it has always been my way to check the workshop. I am a good master, any will say that, but I demand high standards from my masons, in the craft and in how they leave the workshop each night. Good job I did look too, because it wasn't left as I would want, not by a long way.'</p><p>'In what way did it fail?' Bradecote shot a quick glance at Catchpoll.</p><p>'Well, the floor hadn't been swept properly, nor the bench cleaned. I don't accept dust all about the workshop. Untidiness in the little things leads to untidiness with chisel and mallet, and that is both wasteful of time and stone, and dangerous to limb and eye. What was worse, there was even a mallet left out on the bench, not in the rack, and the men know how I expect all the tools accounted for. Mind you, I gave Arnulf the back of my hand when he returned. He was the apprentice given the tidying task last night, and his mind was on what was to come, not what was to be done. You can understand why I don’t give them time off, regular.'</p><p>The Sheriff's men tried not to appear too interested in this information, and Catchpoll said nonchalantly, 'I would not have thought you were a master who was often disobeyed, Master Elias.'</p><p>The master mason puffed himself up importantly, and thrust his chin forward in an effort to emphasise his unassailable authority. 'No indeed. My men rarely act foolish.' He added fairly, 'Unless of course they've taken drink, and we all know that when the drink is in, the sense goes out.' His expression became very serious. 'I let them off of an occasional evening, because they are not permitted to drink ale when working, just small beer. Chisels are sharp, ladders are tall, and dying too easy. I have seen it often enough over the years, the waste of a good man through a moment of thoughtlessness.'</p><p>'So it was unusual for the apprentice to leave things out of place?' Bradecote interrupted what could become a list of the dangers facing masons. He could see what Catchpoll was trying to ascertain.</p><p>Master Elias furrowed his brow. 'Most unusual.'</p><p>Hugh Bradecote made a mental note to visit the masons' workshop, and cast about in a new direction.</p><p>'You are a craftsman of some note, Master Elias. Abbot William told me you had come here with recommendations from Ely, Oxford and Abingdon. In your wide travels, had you come into contact with Eudo the Clerk before?'</p><p>The master mason shook his head. He had been expecting to be asked about the man, and it posed no problem, although he would be glad enough to set the conversation in another direction.</p><p>'I have worked in many places, but I have no cause to speak with the brethren, other than those obedientaries concerned with the fabric of their buildings, and of course the head of the house.' He spoke no less than the truth, and he had not actually been asked if he had merely seen Eudo before.</p><p>'You have not been to Romsey? The two nuns are from there.'</p><p>'I have not. I prefer not to work in a house of women.' He grimaced. 'My father, who was a master mason before me, did so once, and complained ever after. Trouble, they are. They change their minds, see, enough to drive a sane man mad. You get half way through a design and then they think of something they want changing, as though you could add to stone as well as take away.'</p><p>Catchpoll nodded in fellow feeling.</p><p>Bradecote returned to more pertinent matters. 'How was it that you decided, yesterday evening, to give the men time in the town when you admit that you do so only rarely?'</p><p>'It had been a hot day, my lord, both in the confines of the workshop and up on the north transept. The heat takes it out of the men, and frays tempers, which leads to mistakes, and you cannot afford that up top, or with expensive stone. That it happened to be the evening of a death is but chance, aye, and mischance for me if it leads to you suspecting me of wrong-doing.' The master mason sounded suitably aggrieved at the possible doubting of his honesty.</p><p>'Could you tell us exactly what happened, and what you found, as you did to the lord abbot.' It was an instruction rather than a question. Bradecote was not going to follow up the last answer by assuring the man that he was not suspected.</p><p>'Aye, my lord. It was simple enough. I was in the workshop, after supper, between Vespers and Compline, checking things over and considering a new design. There was a natural fault in the latest block and I would rather use it than discard the stone.' His voice warmed briefly with the enthusiasm of a man who loves his work. 'There's great satisfaction to be had, getting the best from a piece, especially when nature brings out a problem to be overcome.'</p><p>'Indeed. But to continue?'</p><p>'Well, eventually I came up with a solution and, since it had to be close to Compline, I left the workshop. I had thought to take my place early in the nave. As I reached the crossing I turned first to the altar, as you would, and saw the cowled penitent before it. I would have passed on without disturbing him if it had not been for the fly?'</p><p>'The fly?' Catchpoll looked puzzled.</p><p>'Aye, a fly was buzzing round his head, and even a man at prayer won't suffer a fly on his pate without even a twitch. It was just odd, that's all, not natural. Then I got this feeling something wasn't right. I couldn't say what, just not right, so I drew closer, and that's when I saw his head had been stove in. Terrible it was, enough to turn a man’s stomach.'</p><p>'But not yours,’  Bradecote noted.</p><p>'Well, I’ll not say I didn’t feel my gorge rise, my lord, for I did, but . . .look, I’ve been a mason all my adult life, apprentice to master, and it is a craft with its dangers. I’ve seen what a man looks like after falling from eighty feet, or more, and often enough not to want to gawp. Still, this was nasty . . . '</p><p>&nbsp;The master mason shook his head, more in disapproval than shock, thought Catchpoll.</p><p>'What did you make of the burnt documents, Master Elias?' Bradecote had not finished. He made the question sound casual.</p><p>&nbsp;'Didn't make anything at all, my lord,' responded Elias, looking blankly at him. 'I was just concerned at having found a dead man in the church. Aye, and one who could not have taken his own life. The man who did it could have been close by, so I had no wish to linger. That would be a foolish thing, even though I would say I was a man who could take care of himself. I headed straight out as the Compline bell rang.'</p><p>'Did you see or hear anyone else in the church while you were there?'</p><p>This was easier. 'No, my lord. But it's not likely I would have heard anyone while I was in the workshop.' He paused. 'There now, I almost forgot. There was someone, someone in St Eadburga's Chapel when I came in. I couldn't say who, but I could hear whispering, like one at prayer. Perhaps that was that Clerk, before he was killed.' He smiled at Bradecote as if expecting recognition for his feat of memory.</p><p>The acting under-sheriff did not smile, but nodded an acknowledgment. 'Is there anything else you think might be useful?' Bradecote had no expectation of a reply and was surprised at the master mason's answer.</p><p>'Well, nothing directly so, my lord, but I was thinking that if you wanted to know more about the dead man you might try asking Brother Remigius, the sub-prior here. He used to be at Winchester, see, and yesterday, while I was speaking with him, the lord bishop’s clerk approached and spoke to him. What he said was none of my concern, and I did not pry, but I tell you true, Brother Remigius looked about as happy as a man who's had a fox in his coop.'</p><p>'Thank you, Master Elias, for your help. You may return to your labours.'</p><p>The big man stood up from the bench, looked from Catchpoll to Bradecote and made for the door. As he reached it, Bradecote halted him with a final question, thrown as an afterthought.</p><p>'Your work must involve much calculation and planning. I take it you are a lettered man?'</p><p>Elias smiled proudly. 'That I am, my lord. Taught to read by the brothers in St Edmondsbury when I was a lad. My mother, God rest her, thought I would take the cowl,' he chuckled, 'but I was more interested in the building than the life of contemplation. Not for me, the tonsure.' He left, looking cheerful.</p><p>'What do you think then, Catchpoll? Would a man like that seek to avoid a possible threat, or would he have been intrigued enough to see if any of the vellum was readable?'</p><p>Catchpoll sneered. 'He wasn't afraid of anyone else being present, not him. I don't see him being perturbed at the thought, just alert. Not the ‘simple’ soul he would have us believe, is Master Elias, and observant too. His work means he looks carefully. If anything was still to be seen, he would have seen it.'</p><p>'Or been the one to set it aflame.'</p><p>'Oh, aye. The person who ”discovers” the victim must be the killer, my lord?' Catchpoll shrugged. 'It is certainly common enough, but you have to watch what is common.'</p><p>'Perhaps, though, he could be one without the other.' Bradecote ignored the implied criticism.</p><p>Catchpoll was dismissive. 'If he read what was there, but was not the killer, it would be a strange coincidence if it turned out to be something he would wish to destroy.'</p><p>Bradecote agreed. He realised, with no little surprise, that he was suddenly becoming unnaturally suspicious, and, Heaven help him, like the serjeant.</p><p>'He could still be our man. We know of no motive, but he was in the right place, and is easily strong enough to have dragged the body.'</p><p>'So do we ferret around in the masons' workshop or work through the list of unaccounted for brethren, my lord?'</p><p>The younger man ran his long fingers through his dark hair, and sighed. 'I have no doubt everything is now as it should be there, and nothing of significance will remain, but yes, we ferret, Catchpoll. And we pray for a sign.' He pulled a wry face.</p><p>'Not a sign,' muttered Catchpoll, under his breath. 'Priests wants signs. I wants evidence.'</p><p><br></p><p><b>Copyright Sarah Hawkswood 2015</b></p>"
-        }
-      ]
-    },
-    "Extract-ordeal.html": {
-      "settings": {
-        "title": "Extract from Ordeal by Fire",
-        "meta_descr": "Extract from the novel Ordeal by Fire by Sarah Hawkswood"
-      },
-      "components": [
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -4327,7 +4218,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-48",
+          "_anchor": "menu-4k",
           "_params": {
             "bgColor": "#d2c28d",
             "fontSize": "0.85",
@@ -4353,17 +4244,21 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "alert",
-              "family": "MobiriseIcons",
-              "link": "http://bradecoteandcatchpoll.com",
-              "size": 0,
-              "newWindow": false
+              "link": "https://mobirise.com",
+              "size": 0
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Books.html\">Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        }
+      ]
+    },
+    "Extract-ordeal.html": {
+      "settings": {
+        "title": "Extract from Ordeal by Fire",
+        "meta_descr": "Extract from the novel Ordeal by Fire by Sarah Hawkswood"
+      },
+      "components": [
         {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
@@ -4400,6 +4295,95 @@
             "bgColor": "#d2c28d"
           },
           "text": "<p><b>Copyright Sarah Hawkswood 2015</b></p><p><br></p><p>September 1143</p><p><br></p><p>Chapter 1</p><p><br></p><p>'Fire!'</p><p>The cry spread almost as swiftly as the flames, from person to person as from straw to straw of the crackling thatch.</p><p>'Fire!'</p><p>Panic was mixed with action as anxious mothers dragged wide-eyed children from the spectacle. Neighbours, with as much an eye to preventing the blaze reaching their own property as to aiding the unfortunate silversmith whose workshop was alight, came running with buckets and pitchers to take water from the nearest well, and poles and hooks to pull down the burning thatch.</p><p>Serjeant Catchpoll was on his way back to the castle after visiting one of the burgesses. He had been sent by the sheriff to report the successful apprehension of the thief who had stolen the good man's three best pullets. It was a call of courtesy, and Catchpoll, who was not a naturally courteous man, was not best pleased, but William de Beauchamp, lord Sheriff of Worcestershire, was himself far too important to make such a visit. Instead, he had delegated his serjeant so that the next meeting of the burgesses would not lead to their whining petition for greater diligence in upholding the king’s laws by the sheriff and his men.</p><p>The serjeant halted, making a swift assessment of the situation. Fire was the great fear of townsfolk, with their homes and businesses cheek by jowl, and nearly every one of them constructed of wood, and daub, and thatch. A fire that Catchpoll could remember from his youth, back in 1113, had cost dozens of lives, and livelihoods too. One of his own cousins had perished then, and there had been fire both accidental and intentional in the last dozen years.&nbsp;</p><p>He considered running to the castle to bring the men-at-arms to assist, but it was clear that the alarm had been raised swiftly and it was a windless afternoon. Running was not something he did from choice at his age. The inhabitants of the street had pulled down the little thatched lean-to abutting the neighbouring premises, disregarding the pleas of the owner, and had created a small fire break. Women were throwing water at the wall of this adjacent property, and already the smoke was more in evidence than the flames.</p><p>Catchpoll pulled a face. He could, as the sheriff's officer, make his presence known and take charge of the scene. On the other hand, the locals were doing pretty well on their own, and if the fire were not sufficiently damped down and erupted again later there could be no blame laid at his door. He held back and waited, inconspicuously; he was a man who could merge into the background when occasion arose. Eventually the number of people in the street began to thin, leaving only the tradesman and his immediate neighbours surveying the scene. Puddles of sooty water lay in every depression of the trampled earth of the narrow street, and the scattered thatch was strewn as if thrown randomly by a giant hand. Charred beams pointed accusing black fingers heavenward, and the frame of the lean-to stood precariously at a drunken angle. The owner of the structure was still complaining vociferously, but nobody was paying him any attention whatsoever.&nbsp;</p><p>Serjeant Catchpoll took a deep breath, and promptly coughed as the ghost of an acrid tendril of smoke caught in his throat. He had hoped to step forward looking official, but found himself being thumped on the back by an elderly and sparsely toothed woman, and attracting the attention of the sorry-looking party while bent double and with streaming eyes.</p><p>The diversion caused the lean-to's owner to cease his complaint. After a minute, Catchpoll stood upright again. He hawked, paused and spat into the soot-flecked dust.</p><p>'You know me. I am the lord sheriff's man, and he will want to know of this. How did the fire start?' he asked, still wheezing slightly.&nbsp;</p><p>'How do you think?' demanded the lean-to owner, grumpily. 'You'd think any man with a furnace in his premises would keep a better eye on it, not risk his neighbours through negligence.'</p><p>''Twas not negligence, as I and my journeyman could tell you if you would but listen.'</p><p>The silversmith, sitting on an upturned tun, wringing his hands, roused himself from his gloom, and the journeyman, who had been having a burned hand tended by a winsome maid who had eased his discomfort as much by her presence as her ministrations, looked round to confirm his master's words.&nbsp;</p><p>'True enough. The fire did not start by the furnace, and it was banked down low this afternoon. Master Reginald was selecting stones for setting in a chalice, and I was polishing. The fire was in the thatch at the rear of the shop when we first noticed it.'</p><p>Serjeant Catchpoll frowned. A fire was bad, but a deliberate fire was far worse.</p><p>'Don't you take what that longshanks says as truth,' piped up the old woman who had clapped Catchpoll on the back. 'He'd swear sunrise was sunset to keep in his master's favour. He'll not have the wherewithal to wed else, and he can't afford to wait long. She,' and the woman pointed a dirty-nailed finger at the journeyman's ministering angel, 'won't be able to hide the result of their sinning 'neath her gown much longer.'</p><p>The young woman reddened and threw the woman a fulminating glance, but the old woman merely laughed mirthlessly. Catchpoll's eyes, like everyone else's, dwelt upon the girl's figure, which was shapely in a voluptuous way. If she was carrying, well, perhaps another woman could tell, but the serjeant certainly could not, and the other men looked as surprised. Indeed, the owner of the lean-to stood agape, his jaw working silently for several seconds and his face assuming a purple hue, before he could find his words.</p><p>'You . . . You . . . lecherous, whoreson rogue! Ruin my daughter, would you! I'll have you whipped. Indeed, I'll do it myself.' He lunged forward, and the girl placed herself smartly between father and lover, looking not chastened but belligerent.</p><p>'Out of my way, you ungrateful wench. What your poor mother would have . . .'</p><p>'My 'poor' mother would have said I should have been wed long since, not kept to labour in her stead because you are too close-fisted to employ a woman to keep house for you. It's you who should be shamed, not I. Edwin has good prospects with Master Reginald, and is no mean match for the daughter of an idle, ale-swilling fletcher like you.' She turned to her lover. 'Will you take me dowerless, love?'</p><p>'You know that, Winflaed, but after this,' he waved his sound hand at the smouldering shop, 'I know not how we'll manage.'</p><p>Master Reginald, who had originally been contemplating the future in a very despondent fashion, seemed to have pulled himself together during the altercation over Winflaed, and now, though blackened of face and singed of brow, looked much more his normal, competent self.&nbsp;</p><p>'I'll swear not all is lost, Edwin. Whatever lies charred out the back, the flames have not done more than blacken the very front of the shop, so the ready pieces should be undamaged, and if it did not get too hot, the tools and gemstones will be there amongst the ash and soot. We can get the building repaired, even if I have to give bracelets and clasps in payment, but it'll mean a few weeks under an awning, and that's no place for a woman, especially if she is . . . Once there's proper chambers again you can bring your bride, and I'll make you my partner when your time is up next Lady Day. Let her stay with her father till all's ready.'</p><p>'As if I'd have her.' The fletcher curled his lip disdainfully. 'Giving herself like some cheap forlegnis in an alley, and behind my back too.'</p><p>Serjeant Catchpoll had been diverted by the unexpected turn of the conversation, but was keen to get back to the sheriff with a report, and now spoke up, his voice authoritative and calm.</p><p>'She’d scarce do so in front of you.' At his quip the old woman laughed, and choked as a consequence. 'You’ll take her back, Master Fletcher, with a good grace, and make efforts to give her a dower if you value your own standing. And you,' he turned on the old woman, 'will keep your tongue between the remains of your teeth and not spread gossip. Many a child arrives a mite early, and nothing is said.' He dusted his hands together, dismissing the subject. 'Now, can we get back to the fire? If you and your journeyman are certain that the fire did not start in the workshop, could it have started accidentally to the rear, with a stew pot mayhap, Master . . .?' He frowned, for Catchpoll liked to know the craftsmen of Worcester, and this one’s name eluded him for the minute.</p><p>'Reginald Ash is the name.'The silversmith gave a bitter laugh. 'Fitting, today, eh? But the fire starting from a cook-fire? No, I'd swear not. A girl comes and sets a pot cooking slow for us during the afternoon, but she don't normally do that till the bell has struck for the afternoon service in the Cathedral, and I did not hear her out back.'</p><p>'Nor I either,' agreed Edwin, 'and we weren't beating metal, nor any other noisy task.'</p><p>'Well, where would I find the girl to find out for sure?' Catchpoll could foresee the sheriff wanting to be clear about this.</p><p>'Along the way, next to Adam Merlie, the coppersmith. She's Widow Wick's daughter, Agnes.'</p><p>'And would there be anyone you know of as would want you out of business, Master Ash?'</p><p>The silversmith shook his head. 'No, none. I keeps to myself, and have no bad blood betwixt me and any man that I knows of. My goods are well made and sold for a fair price, and there has never been any complaint otherwise. No, there is no reason anyone should want to burn me out.'</p><p>Serjeant Catchpoll rubbed his grizzled chin. 'Well, I will report all this to the lord sheriff, and let him decide whether it was malice or accident.'</p><p>He left the silversmith and his man, aided no doubt by the girl Winflaed, to begin the business of clearing and salvage, and went in search of Agnes Wick. She proved an unhelpful witness. The girl was slow-witted and vague, and her mother was much inclined to speak for her or suggest what she should say. She seemed unsure as to whether she had been to the smith's, but her mother, fearing blame might come their way, swore with more vehemence than veracity that the nasty business could have nought to do with her 'poor Agnes'.</p><p>Catchpoll was left with little that he could lay before the sheriff as good evidence for accident or crime. He returned to the castle unhappily aware that William de Beauchamp would most likely leave the decision whether to investigate further up to him, and knew the blame could be laid at his door if it proved he had made the wrong choice.</p><p><br></p><p>He was still pondering his unenviable position when he entered the castle bailey, and stopped short. He had left but an hour or so previously, and all had been quiet and everyday. Now the bailey was full of bustle, with horses, men-at- arms and a noticeable number of black-habited monks.</p><p>'What in the Lady's Name is going on?' the serjeant asked of the gate guard, who was taking considerable interest in a monk's spectacularly unsuccessful attempts to get an obstinate mule into the stables.</p><p>'Well, the Brother has been trying to. . .'</p><p>'No, cabbagehead, what is all this about?' Catchpoll waved an arm at the scene within the bailey.</p><p>'Ah well, the lord Bishop of Hereford has descended upon us all, in some state, because of some dispute. All above our level I expect, Serjeant.'</p><p>'Above yours, aye, but not necessarily mine.' He did not spare the guard another glance, but made his way through the throng to the kitchens. He knew the cook well, and also knew that the cookhouse was the hub of the wheel of knowledge within the castle. Drogo the Cook seemed to know what was going on before it even happened, and Catchpoll wanted to appear before the sheriff as fully informed as possible. Experience had taught him that being abreast of the news always gave the sheriff the idea that Serjeant Catchpoll was one step ahead, and Catchpoll enjoyed that.</p><p>Drogo was shouting orders at a scullion, while waving a ladle in the manner of a battling bishop with a mace. Catchpoll grinned.</p><p>'A few more for supper then?' he quipped.</p><p>Drogo rolled his eyes. 'Ravenous wolves would be easier. Here's me, with Aelfred down with an ague, and two wenches sickening for heaven knows what, and the lord Bishop of Hereford arrives, without warning, with an army to protect him and half an abbey to pray with him. And then he sends down asking for herons! Not even just one! How much does this man eat? I thought men of God were meant to think of their souls, not their bellies! Where am I to get herons for tonight? Will they fall like manna from Heaven or does the lord bishop think there is a fresh heron stall at the gate?'</p><p>Catchpoll sympathised, as one sufficiently up the scale of hierarchy to be called upon by name and given herculean tasks to be performed instantly. His grin spread, ever more skull like.</p><p>'Give 'em chicken and say they are stunted heron, friend.'</p><p>Drogo lobbed the ladle at him, but he ducked with surprising alacrity, and it caught the spit-boy on the back of the head instead. The lad yelped.</p><p>Catchpoll put up his hands placatingly. 'Fair enough, not a good suggestion. Just tell me in a few of your well chosen words what is going on, and I'll leave you in peace.'</p><p>Drogo told him, succinctly, but with adjectives that made the girl shelling peas turn crimson. The bishop, travelling, so he said, with a large party for protection in such perilous times, had come to drag the sheriff off to the northern border of the county to sort out a land dispute where one of his holdings was involved. The sheriff would normally demur, but the thought of having the bishop and all his minions eating him out of house and home, and 'bleating' in his ear for days, swayed him.</p><p>'Well, I suppose I had best find out what the lord sheriff wants me to do, pox on it. Hope he doesn’t keep me kicking my heels for long. My wife has a nice fat partridge hanging ready to put in a pudding for tonight, and she makes a fine partridge pudding.' Catchpoll's mouth watered at the prospect.</p><p>'Puts plenty of gravy with it, I'll be bound, and not too much seasoning. Now I always say . . .'</p><p>'No time to listen to your sound cooking advice, Drogo. Must get to the lord sheriff and report.'</p><p>Before the cook could say another word, Catchpoll had gone.&nbsp;</p><p><br></p><p>William de Beauchamp, Lord Sheriff of Worcestershire, was not a happy man. He found the society of clerics both boring and disquieting. He was a man who preferred action to pontification, and was distrustful of those who fought with clever words. He noted his serjeant's arrival in his hall with the relief of a man who sees reinforcements arriving to lift a siege, and drew him forth by an exchange of glances and a slight nod of the head. The bishop was in full flow, but the sheriff cut across him without compunction.</p><p>'You have seen Ranulf Fuller, Catchpoll? And he is content?'</p><p>'Aye, my lord. You'll have no moaning from him, leastways not more than usual, but as I returned there was a fire in the shop of Reginald Ash the silversmith.'</p><p>'Much damage?' The sheriff frowned.</p><p>'No, only to the silversmith's premises. The neighbours were quick about dealing with it, and prevented any real spread.'</p><p>The sheriff looked more cheerful. 'Good, then . . .'</p><p>'There was, my lord, some suggestion that the fire was not accidental.' Catchpoll kept his own face expressionless as the frown reappeared between the sheriff's brows, and a grimace of annoyance twisted his mouth.</p><p>'You said 'suggestion'. Is it an idle claim to keep the man's neighbours from calling down curses on him, or are there grounds for thinking it was indeed a fire that was set?’</p><p>It was Catchpoll's turn to look unhappy. His grizzled, mobile face was screwed up into an expression of contemplation, and his head nodded from side to side as he weighed the matter. This was what he had feared might happen. The sheriff was going to leave the decision on action up to him. Catchpoll far preferred being given a task, a scent to follow, and then getting on with it without interference. Making the initial judgment was, in his view, much more difficult. If he said it warranted investigation and it turned out to have been a simple mischance, the sheriff would berate him for wasting his time. Yet if it was deliberate and he ignored it, well, the consequences could be too unpleasant to contemplate. He pulled at the lobe of his left ear, meditatively, and sucked his teeth.</p><p>'It's a tricky one, my lord, honest it is. The smith and his journeyman swear the fire started in the back of the premises, not in the workshop, and definitely not at the furnace, which they say was not in use today. I thought perhaps it could be a cooking fire. A girl comes to set a pot for them in the afternoon. Trouble is, the girl is about as bright as a plough ox, if that, and I would not like to say whether what she said was true, what she thought was true, or what she thought her mother and I wanted her to say. All I would vouch for is that if the fire was lit through malice, it was not the girl that did it.'</p><p>The sheriff was no fool. He knew that Catchpoll was now trying to pass this potentially poisoned chalice back to him. His eyes narrowed for a moment, but then, to Catchpoll's surprise, he smiled; it was a small, grim smile. He was being called away by the Bishop of Hereford, and a suspicion alone was not sufficient to detain him. He cast a swift glance at the prelate, who still wore an affronted expression at having been abandoned in full flow so that the sheriff could discuss shrieval business with an underling. The smile twitched.</p><p>'Right, Serjeant. I am away north to assist the lord bishop here. In my absence you can keep your ears open in case of information that would prove this either way. I should not be gone for more than,' he paused, as the bishop made a sound between a cough and a growl, 'a week, or perhaps ten days. If there are further developments you can always send to my lord Bradecote and call him in. A little work would do my new under-sheriff no harm. The harvest is in, and his brat should have been born by now. He would probably be glad to escape cooing women and a screaming infant in his hall.'&nbsp;</p><p>With that he nodded dismissal, and Catchpoll withdrew, muttering under his breath.</p><p>He had worked once with Hugh Bradecote, the new under-sheriff, and had no real complaints about him, but he was still very green, and much inclined to get far too involved in what Catchpoll saw as his own remit. The old under-sheriff, de Crespignac, had given the sheriff’s serjeant  pretty much a free hand, and Catchpoll preferred it that way. There had been no question about his methods as long as the result was satisfactory and de Crespignac could make it sound as though the inspiration were his own. The new man wanted to be far more involved; indeed he had taken the last case with little delegation at all. Serjeant Catchpoll heaved a heavy sigh, and ambled glumly back towards the kitchens, where he slipped into the dim brewhouse, and drew himself a pot of small beer under the indulgent gaze of the florid faced, motherly woman who was busy filling pitchers for the sheriff's table. He gave her a slow, conspiratorial wink, with just enough of a leer to make her giggle and redden even further. She waddled out, still beaming, and Catchpoll, wiping the residue from his lips with the back of his hand, headed for hearth and home, and the consolation of partridge pudding.&nbsp;</p><p><br></p><p><b>Copyright Sarah Hawkswood 2015</b></p><p>&nbsp;</p><p>&nbsp;</p>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#c4ae68"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#cebc82!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#d2c28d"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#b68e0e!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-4k",
+          "_params": {
+            "bgColor": "#d2c28d",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/sh-logo-595x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://bradecoteandcatchpoll.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -4496,7 +4480,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Books.html\">Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -4781,6 +4765,301 @@
           ],
           "_name": "header5",
           "_anchor": "header5-3l",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#d2c28d",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "SOLID COLOR INTRO",
+          "text": "Full screen intro with color background.<br>Buttons, text and title are aligned to the left.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+        }
+      ]
+    },
+    "reviews.html": {
+      "settings": {
+        "title": "Reviews",
+        "meta_descr": "Independent reviews of novels by Sarah Hawkswood"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#c4ae68"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#cebc82!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#d2c28d"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#b68e0e!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-4k",
+          "_params": {
+            "bgColor": "#d2c28d",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/sh-logo-595x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://bradecoteandcatchpoll.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4l",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": 1,
+            "bgColor": "#d2c28d",
+            "showMeta": false
+          },
+          "title": "Reviews<br><br>",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "36px",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
+            },
+            "SPAN": {
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
+            },
+            "P": {
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
+            }
+          },
+          "_anchor": "msg-box5-4m",
+          "_params": {
+            "imageSize": "32",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#d2c28d",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/servant-of-death-cover-1400x2210.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Servant of Death",
+          "text": "Reviewed under original title 'The Lord Bishop's Clerk'<br><br>\"Sarah Hawkswood’s superb debut ...&nbsp;Hawkswood’s previous work has been as a military historian – and how it shows with magnificent attention to period detail bringing 12th century Pershore and abbey life to the page in almost a scenic way&nbsp;…&nbsp;All-in-all this is a clever, very well written and extremely enjoyable murder mystery. I absolutely loved it!\"&nbsp;<b><a href=\"http://crimereview.co.uk/page.php/review/2669\" target=\"_blank\">Crime Review</a></b><br><b><br></b>\"This convincing medieval murder mystery is set during a time of rivalry for the English throne by William the Conqueror’s grandchildren, and Hawkswood leaves the reader guessing to the well-written end.\"&nbsp;<b><a href=\"https://historicalnovelsociety.org/reviews/the-lord-bishops-clerk/\" target=\"_blank\">Historical Novel Society </a></b><br><b><br></b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Extract-servant.html\" data-toolbar=\"-mbrBtnMove\">EXTRACT</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "36px",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
+            },
+            "SPAN": {
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
+            },
+            "P": {
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
+            }
+          },
+          "_anchor": "msg-box5-4s",
+          "_params": {
+            "imageSize": "32",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#d2c28d",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/obf-1400x2223-1400x2223.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Ordeal by Fire",
+          "text": "<b>\"</b>... possibly the most easy to read historical mystery of the year. Whether it’s action, reflection, deep personal feelings, description or even repeated gossip, her elegant and carefully chosen prose keep you glued to the page. She creates a medieval world of her own – and drags the reader deeply into it ...&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">This is as much a tale of personalities, relationships and ambitions as it is of murder and Hawkswood’s ability to bring even her most minor characters to vivid and realistic life gives it a must-read quality. It will be interesting to see how these characters develop through the series.\" </span><b style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"http://crimereview.co.uk/page.php/review/4335\" target=\"_blank\">Crime Review</a></b><br><b><br></b>\"The author’s detailed research is obvious without ever overwhelming the narrative, and the details of everyday life in medieval Worcester provide fascinating background and the hint of many future outings for the duo.  Ordeal by Fire is an ideal choice for fans of Ariana Franklin, Peter Tremayne and S.D. Sykes.\" <b><a href=\"https://historicalnovelsociety.org/reviews/ordeal-by-fire/\" target=\"_blank\">Historical Novel Society</a></b><br><b><br></b>\"Ordeal by Fire does not flinch from describing the ugly reality of life in the 12th Century: families left destitute when their businesses are destroyed, healthy young women dying in childbirth, orphaned girls being forced into prostitution to feed younger siblings and the ugly prejudice that will let a Jewish man’s house burn while no-one in the crowd lifts a finger to aid him.<br>I found the characters and description of medieval life in Ordeal by Fire thoroughly engaging and the book is beautifully written. I would whole-heartedly recommend it. A page-turner.<b>\" <a href=\"http://promotingcrime.blogspot.co.uk/2016/11/ordeal-by-fire-by-sarah-hawkswood.html\" target=\"_blank\">Mystery People</a></b><b><br></b><br><b>\"</b>If you like Ellis Peter’s excellent Cadfael books, you’re sure to enjoy this. The research and writing is first class, but what I feel truly gives it an edge is the dynamic between Bradecote and Catchpoll, readers will really take to them.\"&nbsp;<b><a href=\"http://destructive-music.com/2016/12/11/book-reviews-december-2016/\" target=\"_blank\">Destructive Music</a></b><br><b><br></b><br><b><a href=\"http://myshelf.com/toptenreads.html\" target=\"_blank\">Myshelf.com</a> - </b>In Rachel A Hyde's Top 10 books of the year.<br><br><b><br></b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Extract-servant.html\" data-toolbar=\"-mbrBtnMove\">EXTRACT</a>"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-4r",
           "_params": {
             "parallax": true,
             "bgImageRadio": false,
