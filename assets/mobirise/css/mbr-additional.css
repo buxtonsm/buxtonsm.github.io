@@ -875,6 +875,19 @@ h6,
 #header3-19 H3 {
   font-family: 'Montserrat', sans-serif;
 }
+#msg-box3-4u .mbr-section-title,
+#msg-box3-4u p {
+  color: #000;
+}
+#msg-box3-4u .lead P {
+  text-align: left;
+}
+#msg-box3-4u .lead UL {
+  text-align: left;
+}
+#msg-box3-4u .mbr-section-title {
+  font-size: 30px;
+}
 #msg-box5-1r H3 {
   font-size: 36px;
   font-family: 'Droid Sans', sans-serif;

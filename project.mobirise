@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BC",
-    "currentPage": "index.html",
+    "currentPage": "Books.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 173,
+    "uniqCompNum": 175,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -130,7 +130,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "msg-box5",
@@ -244,7 +244,7 @@
             "showButton": false
           },
           "title": "Sarah Hawkswood",
-          "text": "<p>The Bradecote and Catchpoll series, by Sarah Hawkswood, is published by Allison &amp; Busby. They have a chronological order but also work as stand alone stories. The first, <b>Servant of Death</b>, is available in ebook and paperback format, and the second, <b>Ordeal by Fire</b>, is available in hardback, paperback and ebook. An audiobook will also be available soon.</p><p><br></p><p>Read the synopses and titles of future investigations in the&nbsp;Books&nbsp;section. You can read an extract from <b>Servant of Death</b>&nbsp;<a href=\"Extract-servant.html\">here</a>, and the first chapter of <b>Ordeal by Fire</b> <a href=\"Extract-ordeal.html\">here</a>.</p><p><br></p><p>The Bradecote and Catchpoll series are set in Worcestershire during the Anarchy of King Stephen’s reign, and commence in June 1143. They follow the investigations of Hugh Bradecote, a vassal lord of the Sheriff, William de Beauchamp, and the Sheriff’s Serjeant, the wily Catchpoll. Catchpoll is ‘the professional’, having been ‘serjeanting’ for twenty years. He knows nearly all the low life of Worcester, and works on the principle that outside of thefts for survival and crimes of passion, criminals are mean bastards, and the way to keep crime under control is to prove you are a meaner bastard than they are. He is observant, can think clearly, and is, above all, pragmatic. He has worked with an Undersheriff who was not fluent in English, and was content to let Catchpoll do most of the work, and then present his findings to the Sheriff. This was perfectly acceptable to Catchpoll, who dislikes the idea of an interfering lord.\n</p><p>\n</p><p><br></p><p>The first book, <b>Servant of Death</b>, sees the lord Sheriff of Worcestershire faced with with a murder in Pershore Abbey. He drafts in one of his vassals, Hugh Bradecote, as acting under-sheriff, expecting him to do no more than be emollient with the high ranking guests and abbot ,and&nbsp; with the instruction to ‘keep them sweet and let Catchpoll ferret’. Bradecote however, is no cipher, as Catchpoll discovers.\n</p><p><br></p><p>The second book, <b>Ordeal by Fire</b> takes place a couple of months after<b> Servant of Death</b> and finds Serjeant Catchpoll reluctantly calling in Undersheriff Hugh Bradecote when there is the suspicion of a fire-setter at large in Worcester. As readers of the first book will know, a grudging respect has grown between the wily and experienced serjeant and the new under-sheriff, but it is not a relationship without tensions, and these are exacerbated when the crimes are taking place in Catchpoll’s ‘home patch’. He knows Worcester inside out, and it touches his personal pride that he has no idea who is setting it aflame.\n</p><p><br></p><p>This book also introduces Walkelin, whom Catchpoll picks as his ‘serjeanting apprentice’. A red -haired young man of enthusiasm and dogged determination, his keenness may prove both an asset and a danger to himself.</p>",
+          "text": "<p>The Bradecote and Catchpoll series, by Sarah Hawkswood, is published by Allison &amp; Busby. They have a chronological order but also work as stand alone stories. The third in the series, <b>Marked to Die</b>, will be out in hardback in Autumn 2017.&nbsp;</p><p><br></p><p>Read the synopses and titles of future investigations in the Novels <a href=\"Books.html\">section</a>. You can read an extract from <b>Servant of Death</b>&nbsp;<a href=\"Extract-servant.html\">here</a>, and the first chapter of <b>Ordeal by Fire</b> <a href=\"Extract-ordeal.html\">here</a>. An extract from the audiobook of <b>Ordeal by Fire</b> is <a href=\"http://www.audible.co.uk/pd/Crime-Thrillers/Ordeal-by-Fire-Audiobook/B01N327TIG\" target=\"_blank\">here</a>.</p><p><br></p><p>The Bradecote and Catchpoll series are set in Worcestershire during the Anarchy of King Stephen’s reign, and commence in June 1143. They follow the investigations of Hugh Bradecote, a vassal lord of the Sheriff, William de Beauchamp, and the Sheriff’s Serjeant, the wily Catchpoll. Catchpoll is ‘the professional’, having been ‘serjeanting’ for twenty years. He knows nearly all the low life of Worcester, and works on the principle that outside of thefts for survival and crimes of passion, criminals are mean bastards, and the way to keep crime under control is to prove you are a meaner bastard than they are. He is observant, can think clearly, and is, above all, pragmatic. From the second book they are joined by Walkelin, whom Catchpoll has selected as his 'serjeanting apprentice'.</p><p>\n</p><p><br></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -760,7 +760,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -836,7 +836,7 @@
             }
           },
           "title": "Sarah Hawkswood",
-          "text": "Sarah Hawkswood describes herself as a ‘wordsmith’ who is only really happy when writing. She read Modern History at Oxford and her factual book on the Royal Marines in the First World War, From <a href=\"https://www.amazon.co.uk/From-Trench-Turret-S-Holloway/dp/1845293215\" target=\"_blank\">Trench and Turret</a>, was published in 2006. The Lord Bishop’s Clerk is her first novel. <br><br>She takes her pen name from one of her eighteenth century ancestors who lived in Worcestershire, and selected it because the initials match those of her maiden name. She is married, with two grown up children, and now lives in Worcestershire. <br><br>She is a member of the Crime Writers’ Association, the Historical Writers’ Association, and the Historical Novel Society.<br><br>You can contact her at sarahhawkswood@gmail.com&nbsp;",
+          "text": "Sarah Hawkswood describes herself as a ‘wordsmith’ who is only really happy when writing. She read Modern History at Oxford and her factual book on the Royal Marines in the First World War, From <a href=\"https://www.amazon.co.uk/From-Trench-Turret-S-Holloway/dp/1845293215\" target=\"_blank\">Trench and Turret</a>, was published in 2006. The Bradecote and Catchpoll series are her first novels. <br><br>She takes her pen name from one of her eighteenth century ancestors who lived in Worcestershire, and selected it because the initials match those of her maiden name. She is married, with two grown up children, and now lives in Worcestershire. <br><br>She is a member of the Crime Writers’ Association, the Historical Writers’ Association, and the Historical Novel Society.<br><br>You can contact her at sarahhawkswood@gmail.com&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -1006,7 +1006,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1291,7 +1291,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"author.html\">Author</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1316,6 +1316,50 @@
           },
           "title": "News",
           "meta": "Keep up with the latest news on Bradecote and Catchpoll"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".lead P": {
+              "text-align": "left"
+            },
+            ".lead UL": {
+              "text-align": "left"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-4u",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#d2c28d",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Sarah Hawkswood",
+          "text": "<p><br></p><h3><b>Marked to Die - the third Bradecote &amp; Catchpoll novel</b></h3><p><b>05 March 2017</b></p><p>I am delighted to announce that&nbsp;<a href=\"http://www.allisonandbusby.com/book/ordeal-by-fire-hardback\" target=\"_blank\">Allison &amp; Busby</a> are publishing Marked to Die, the third in the Bradecote and Catchpoll series, in hardback this autumn, (date to be released). The sheriff's trio are sent a little north to hunt the mysterious archer who is killing the packmen and carters on the Salt Way, and discover who is behind the thefts of valuable salt. Bradecote is also dealing with his increasing attraction to the widow of one of the victims.&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_tags": [
