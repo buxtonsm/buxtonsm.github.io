@@ -805,6 +805,9 @@ h6,
 
 
 
+
+
+
 #menu-16 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -922,6 +925,17 @@ h6,
 }
 #msg-box3-1q .mbr-section-title {
   font-size: 30px;
+}
+#msg-box5-4w H3 {
+  font-size: 32px;
+  font-family: 'Droid Sans', sans-serif;
+}
+#msg-box5-4w SPAN {
+  font-family: 'Droid Sans', sans-serif;
+}
+#msg-box5-4w P {
+  font-family: 'Droid Sans', sans-serif;
+  text-align: left;
 }
 
 
