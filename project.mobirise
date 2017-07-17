@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BC",
-    "currentPage": "news.html",
+    "currentPage": "author.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -818,7 +818,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sh-1400x1869-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sophia-1400x1873.jpg",
               "link": "",
               "alt": "photo of Sarah Hawkswood",
               "title": "",
