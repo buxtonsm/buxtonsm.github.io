@@ -807,6 +807,9 @@ h6,
 #msg-box5-1j P {
   font-family: 'Droid Sans', sans-serif;
 }
+#msg-box4-50 P {
+  text-align: right;
+}
 #header5-3m .mbr-section-title {
   color: #000;
 }
