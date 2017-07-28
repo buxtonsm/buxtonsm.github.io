@@ -1191,14 +1191,14 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/the-devil-you-know-1400x2098.jpg",
               "link": "http://vimeo.com/227392010",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": false,
+              "active": true
             },
             "video": {
-              "active": true,
               "src": "http://vimeo.com/227392010",
               "aspectratio": "16:9",
               "autoplay": false,
