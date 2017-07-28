@@ -1116,7 +1116,7 @@
           "_params": {
             "imageSize": "27",
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1169,7 +1169,7 @@
           "_anchor": "msg-box4-4z",
           "_params": {
             "imageSize": "25",
-            "paddingTop": "3",
+            "paddingTop": "0",
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
@@ -1191,16 +1191,16 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/the-devil-you-know-1400x2098.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933.jpg",
               "link": "http://vimeo.com/227392010",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false,
-              "active": true
+              "linkInNewWindow": false
             },
             "video": {
+              "active": true,
               "src": "http://vimeo.com/227392010",
-              "aspectratio": "16:9",
+              "aspectratio": "4:3",
               "autoplay": false,
               "loop": false
             },
@@ -1211,7 +1211,7 @@
             }
           },
           "title": "INTRO WITH YOUTUBE VIDEO",
-          "text": "<p>Extract is<a href=\"http://vimeo.com/227392010\" target=\"_blank\"> here</a>.</p>",
+          "text": "<p>Listen to Matt reading an extract of the audiobook.</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
