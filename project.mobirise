@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BC",
-    "currentPage": "audiobooks.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 181,
+    "uniqCompNum": 184,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -246,7 +246,7 @@
             "showButton": false
           },
           "title": "Sarah Hawkswood",
-          "text": "<p>The Bradecote and Catchpoll series, by Sarah Hawkswood, is published by Allison &amp; Busby. They have a chronological order but also work as stand alone stories. The third in the series, <b>Marked to Die</b>, will be out in hardback on <b>24 August 2017</b>.&nbsp;</p><p><br></p><p>Read the synopses and titles of future investigations in the Novels <a href=\"Books.html\">section</a>. You can read an extract from <b>Servant of Death</b>&nbsp;<a href=\"Extract-servant.html\">here</a>, and the first chapter of <b>Ordeal by Fire</b> <a href=\"Extract-ordeal.html\">here</a>. An extract from the audiobook of <b>Ordeal by Fire</b> is <a href=\"http://www.audible.co.uk/pd/Crime-Thrillers/Ordeal-by-Fire-Audiobook/B01N327TIG\" target=\"_blank\">here</a>.</p><p><br></p><p>The Bradecote and Catchpoll series are set in Worcestershire during the Anarchy of King Stephen’s reign, and commence in June 1143. They follow the investigations of Hugh Bradecote, a vassal lord of the Sheriff, William de Beauchamp, and the Sheriff’s Serjeant, the wily Catchpoll. Catchpoll is ‘the professional’, having been ‘serjeanting’ for twenty years. He knows nearly all the low life of Worcester, and works on the principle that outside of thefts for survival and crimes of passion, criminals are mean bastards, and the way to keep crime under control is to prove you are a meaner bastard than they are. He is observant, can think clearly, and is, above all, pragmatic. From the second book they are joined by Walkelin, whom Catchpoll has selected as his 'serjeanting apprentice'.</p><p>\n</p><p><br></p><p><br></p>",
+          "text": "<p>The Bradecote and Catchpoll series, by Sarah Hawkswood, is published by Allison &amp; Busby. They have a chronological order but also work as stand alone stories. The third in the series, <b>Marked to Die</b>, will be out in paperback on <b>15 February 2018</b>.&nbsp;</p><p><br></p><p>Read the synopses and titles of future investigations in the Novels <a href=\"Books.html\">section</a>. You can read an extract from <b>Servant of Death</b>&nbsp;<a href=\"Extract-servant.html\">here</a>, and the first chapter of <b>Ordeal by Fire</b> <a href=\"Extract-ordeal.html\">here</a>. An extract from the audiobook of <b>Ordeal by Fire</b> is <a href=\"http://www.audible.co.uk/pd/Crime-Thrillers/Ordeal-by-Fire-Audiobook/B01N327TIG\" target=\"_blank\">here</a>.</p><p><br></p><p>The Bradecote and Catchpoll series are set in Worcestershire during the Anarchy of King Stephen’s reign, and commence in June 1143. They follow the investigations of Hugh Bradecote, a vassal lord of the Sheriff, William de Beauchamp, and the Sheriff’s Serjeant, the wily Catchpoll. Catchpoll is ‘the professional’, having been ‘serjeanting’ for twenty years. He knows nearly all the low life of Worcester, and works on the principle that outside of thefts for survival and crimes of passion, criminals are mean bastards, and the way to keep crime under control is to prove you are a meaner bastard than they are. He is observant, can think clearly, and is, above all, pragmatic. From the second book they are joined by Walkelin, whom Catchpoll has selected as his 'serjeanting apprentice'.</p><p>\n</p><p><br></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -1166,6 +1166,11 @@
             "Theme"
           ],
           "_name": "msg-box4",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          },
           "_anchor": "msg-box4-4z",
           "_params": {
             "imageSize": "28",
@@ -1212,12 +1217,7 @@
           },
           "title": "INTRO WITH YOUTUBE VIDEO",
           "text": "<p>Listen to Matt reading an extract of the audiobook.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
@@ -1415,6 +1415,50 @@
           },
           "title": "News",
           "meta": "Keep up with the latest news on Bradecote and Catchpoll"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".lead P": {
+              "text-align": "left"
+            },
+            ".lead UL": {
+              "text-align": "left"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-53",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#d2c28d",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Sarah Hawkswood",
+          "text": "<p><br></p><p><b>Marked to Die paperback out 15 February 2018</b></p><p><br></p><p><a href=\"http://www.allisonandbusby.com/book/ordeal-by-fire-hardback\" target=\"_blank\">Allison &amp; Busby</a> are bringing out the paperback of Marked to Die on 15 February 2018. Available on-line and in bookshops.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_tags": [
