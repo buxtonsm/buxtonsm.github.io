@@ -711,6 +711,9 @@ h6,
 
 
 
+
+
+
 #menu-15 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -810,6 +813,18 @@ h6,
 #msg-box4-50 P {
   text-align: right;
 }
+#msg-box5-55 H3 {
+  font-size: 36px;
+  font-family: 'Droid Sans', sans-serif;
+  text-align: left;
+}
+#msg-box5-55 SPAN {
+  font-family: 'Droid Sans', sans-serif;
+}
+#msg-box5-55 P {
+  font-family: 'Droid Sans', sans-serif;
+  text-align: left;
+}
 #header5-3m .mbr-section-title {
   color: #000;
 }
@@ -827,12 +842,27 @@ h6,
 
 
 
+
+
+
 #header3-19 .mbr-section-title,
 #header3-19 .mbr-section-subtitle {
   text-align: center;
 }
 #header3-19 H3 {
   font-family: 'Montserrat', sans-serif;
+}
+#msg-box5-56 H3 {
+  font-size: 36px;
+  font-family: 'Droid Sans', sans-serif;
+  text-align: left;
+}
+#msg-box5-56 SPAN {
+  font-family: 'Droid Sans', sans-serif;
+}
+#msg-box5-56 P {
+  font-family: 'Droid Sans', sans-serif;
+  text-align: left;
 }
 #msg-box3-53 .mbr-section-title,
 #msg-box3-53 p {
