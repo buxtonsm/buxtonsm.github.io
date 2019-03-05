@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BC",
-    "currentPage": "news.html",
+    "currentPage": "audiobooks.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1374,11 +1374,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/marked-to-die-1400x2232.jpg",
-              "link": "",
+              "src": "@PROJECT_PATH@/assets/images/marked-to-die-cd-480x480.jpg",
+              "link": "https://www.isis-publishing.co.uk/marked-to-die-15278",
               "alt": "knight on horseback",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -1393,7 +1393,7 @@
             }
           },
           "title": "Marked to Die",
-          "text": "An audiobook version of Marked to Die, read by the superb Matt Addis, will be published on 1 March 2019 by Isis Audiobooks.",
+          "text": "The audiobook of Marked to Die, yet again read by the superb Matt Addis, is available from Isis Audiobooks as both CD and CD/MP3 <a href=\"https://www.isis-publishing.co.uk/marked-to-die-15278\" target=\"_blank\">here</a> and wil be available for download in the near future. You can listen to a <a href=\"https://soundcloud.com/ulverscroft/marked-to-die-by-sarah-hawkswood\" target=\"_blank\">sample</a>.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">EXTRACT</a>",
           "_tags": [
             "Theme"
