@@ -2110,6 +2110,9 @@ h6,
 
 
 
+
+
+
 #menu-s .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2206,6 +2209,18 @@ h6,
   font-family: 'Droid Sans', sans-serif;
 }
 #msg-box5-z P {
+  font-family: 'Droid Sans', sans-serif;
+  text-align: left;
+}
+#msg-box5-57 H3 {
+  font-size: 36px;
+  font-family: 'Droid Sans', sans-serif;
+  text-align: left;
+}
+#msg-box5-57 SPAN {
+  font-family: 'Droid Sans', sans-serif;
+}
+#msg-box5-57 P {
   font-family: 'Droid Sans', sans-serif;
   text-align: left;
 }
