@@ -714,6 +714,9 @@ h6,
 
 
 
+
+
+
 #menu-15 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -822,6 +825,18 @@ h6,
   font-family: 'Droid Sans', sans-serif;
 }
 #msg-box5-55 P {
+  font-family: 'Droid Sans', sans-serif;
+  text-align: left;
+}
+#msg-box5-5b H3 {
+  font-size: 36px;
+  font-family: 'Droid Sans', sans-serif;
+  text-align: left;
+}
+#msg-box5-5b SPAN {
+  font-family: 'Droid Sans', sans-serif;
+}
+#msg-box5-5b P {
   font-family: 'Droid Sans', sans-serif;
   text-align: left;
 }
