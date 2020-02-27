@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BC",
-    "currentPage": "Books.html",
+    "currentPage": "audiobooks.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1447,7 +1447,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/knight-trans-2.gif",
+              "src": "@PROJECT_PATH@/assets/images/hostage-to-fortune-cd-1400x1400.jpeg",
               "link": "",
               "alt": "knight on horseback",
               "title": ""
@@ -1465,7 +1465,7 @@
             }
           },
           "title": "Hostage to Fortune",
-          "text": "The audiobook of the fourth Bradecote &amp; Catchpoll, Hostage to Fortune, read by 'the voice of Bradectote &amp; Catchpoll', Matt Addis, will be available from Isis Audiobooks as both CD and CD/MP3 &nbsp;from 1 March 2020, and will also be available as a download from Audible.",
+          "text": "The audiobook of the fourth Bradecote &amp; Catchpoll, Hostage to Fortune, read by 'the voice of Bradectote &amp; Catchpoll', Matt Addis, is available from Isis Audiobooks as both CD and CD/MP3 and is also available as a download from Audible.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">EXTRACT</a>",
           "_tags": [
             "Theme"
