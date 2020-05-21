@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BC",
-    "currentPage": "audiobooks.html",
+    "currentPage": "Books.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1725,7 +1725,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/faithful-unto-death-418x641.jpg",
+              "src": "@PROJECT_PATH@/assets/images/knightbrown-379x575.jpg",
               "link": "",
               "alt": "knight on horseback",
               "title": ""
@@ -1794,7 +1794,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/faithful-unto-death-418x641.jpg",
+              "src": "@PROJECT_PATH@/assets/images/knightbrown-379x575.jpg",
               "link": "",
               "alt": "knight on horseback",
               "title": ""
@@ -1863,7 +1863,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/faithful-unto-death-418x641.jpg",
+              "src": "@PROJECT_PATH@/assets/images/knightbrown-379x575.jpg",
               "link": "",
               "alt": "knight on horseback",
               "title": ""
@@ -2482,7 +2482,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/faithful-unto-death-418x641.jpg",
+              "src": "@PROJECT_PATH@/assets/images/knightbrown-379x575.jpg",
               "link": "",
               "alt": "knight on horseback",
               "title": ""
@@ -5914,7 +5914,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/faithful-unto-death-418x641.jpg",
+              "src": "@PROJECT_PATH@/assets/images/knightbrown-379x575.jpg",
               "link": "",
               "alt": "knight on horseback",
               "title": ""
@@ -6390,7 +6390,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/faithful-unto-death-418x641.jpg",
+              "src": "@PROJECT_PATH@/assets/images/knightbrown-379x575.jpg",
               "link": "",
               "alt": "knight on horseback",
               "title": ""
