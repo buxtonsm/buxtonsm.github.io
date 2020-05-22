@@ -1793,7 +1793,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/faithful-unto-death-418x641.jpg",
+              "src": "@PROJECT_PATH@/assets/images/vale-of-tears-417x641.jpg",
               "link": "",
               "alt": "knight on horseback",
               "title": ""
@@ -1811,7 +1811,7 @@
             }
           },
           "title": "Vale of Tears",
-          "text": "23rd April 2019 - Allison &amp; Busby are publishing the fifth Bradecote and Catchpoll novel in ebook format on 19th September 2019, and in paperback on 23rd April 2020.&nbsp;<br>",
+          "text": "23rd April 2019 - <a href=\"http://allisonandbusby.com\">Allison &amp; Busby</a> are publishing the fifth Bradecote and Catchpoll novel in ebook format on 19th September 2019, and in paperback on 23rd April 2020.&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">EXTRACT</a>",
           "_tags": [
             "Theme"
@@ -1862,7 +1862,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/faithful-unto-death-418x641.jpg",
+              "src": "@PROJECT_PATH@/assets/images/hostage-to-fortune-ebook-417x641.jpg",
               "link": "",
               "alt": "knight on horseback",
               "title": ""
@@ -1880,7 +1880,7 @@
             }
           },
           "title": "Hostage to Fortune",
-          "text": "18th March 2019 - Allison &amp; Busby will be publishing <b>Hostage to Fortune</b>, the fourth Bradecote and Catchpoll novel on 22nd August 2019 in ebook format, and on 12th March 2020 in paperback.",
+          "text": "18th March 2019 - <a href=\"http://allisonandbusby.com\">Allison &amp; Busby</a> will be publishing <b>Hostage to Fortune</b>, the fourth Bradecote and Catchpoll novel on 22nd August 2019 in ebook format, and on 12th March 2020 in paperback.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">EXTRACT</a>",
           "_tags": [
             "Theme"
