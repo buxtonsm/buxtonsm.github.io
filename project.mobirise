@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 224,
+    "uniqCompNum": 234,
     "versionPublish": "4.10.8",
     "favicon": "",
     "noImageResize": "",
@@ -6602,7 +6602,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "bgImage": "../../app/themes/mobirise3/components/_images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#d2c28d",
@@ -6620,7 +6620,7 @@
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/vale-of-tears-417x641.jpg",
               "link": "",
-              "alt": "knight on horseback",
+              "alt": "",
               "title": ""
             },
             "video": {
@@ -6636,8 +6636,8 @@
             }
           },
           "title": "Vale of Tears",
-          "text": "\"This is again a thoroughly believable mediaeval tale, with every detail ringing true, down to the colour and breeding of the horses. The plot twists along nicely, with just the right amount of surprise, several bodies, and very little blood – although plenty of suspects, plus innocent villagers, whose stories are woven in well. The satisfactorily villainous baddie turns out to have a grain of goodness in him after all, and we are almost sorry to see him led off to trial…<br><br>Ms Hawkswood clearly knows her stuff, both as a historian and a crafter of mysteries.\" <br>Historical Novel Society Review<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">EXTRACT</a>",
+          "text": "\"This is again a thoroughly believable mediaeval tale, with every detail ringing true, down to the colour and breeding of the horses. The plot twists along nicely, with just the right amount of surprise, several bodies, and very little blood – although plenty of suspects, plus innocent villagers, whose stories are woven in well. The satisfactorily villainous baddie turns out to have a grain of goodness in him after all, and we are almost sorry to see him led off to trial…<br><br>Ms Hawkswood clearly knows her stuff, both as a historian and a crafter of mysteries.\"&nbsp;<br><br><a href=\"https://historicalnovelsociety.org\" target=\"_blank\">Historical Novel Society</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Extract-servant.html\" data-toolbar=\"-mbrBtnMove\">EXTRACT</a>",
           "_tags": [
             "Theme"
           ],
@@ -6646,8 +6646,7 @@
             "H3": {
               "font-size": "36px",
               "font-family": "'Droid Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
-              "text-align": "left"
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
             },
             "SPAN": {
               "font-family": "'Droid Sans', sans-serif",
@@ -6655,12 +6654,10 @@
             },
             "P": {
               "font-family": "'Droid Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
-              "text-align": "left",
-              "color": "#000000"
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
             }
           },
-          "_anchor": "msg-box5-66"
+          "_anchor": "msg-box5-6h"
         },
         {
           "_params": {
@@ -6672,7 +6669,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "bgImage": "../../app/themes/mobirise3/components/_images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#d2c28d",
@@ -6688,9 +6685,9 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/vale-of-tears-417x641.jpg",
+              "src": "@PROJECT_PATH@/assets/images/faithful-unto-death-418x641.jpg",
               "link": "",
-              "alt": "knight on horseback",
+              "alt": "",
               "title": ""
             },
             "video": {
@@ -6706,8 +6703,8 @@
             }
           },
           "title": "Faithful unto Death",
-          "text": "\"I think this is my favourite of the series so far, as the story twists and turns through the politics of both England and Wales, and the varied depths of loyalty owed, and paid, between servant and Lord, man and wife, mother and sons. . . Hawkswood has explored how the dynamics of a whole manor’s-worth of people could play out in unexpected ways, leading to onion layers of clues, and a surprising but satisfying ending. I particularly enjoyed the glimpses given into the differences between Welsh and English law at the time, and the relationship between the two peoples. Hawkswood uses that tension cleverly as a plot mechanism. She also explores the difference between the law and justice, and how one can sometimes seem to be served at the expense of the other. All in all, an excellent read; good as a standalone, but fitting nicely into the series. Recommended.\"<br>Historical Novel Society Review",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">EXTRACT</a>",
+          "text": "\"I think this is my favourite of the series so far, as the story twists and turns through the politics of both England and Wales, and the varied depths of loyalty owed, and paid, between servant and Lord, man and wife, mother and sons. . . Hawkswood has explored how the dynamics of a whole manor’s-worth of people could play out in unexpected ways, leading to onion layers of clues, and a surprising but satisfying ending. I particularly enjoyed the glimpses given into the differences between Welsh and English law at the time, and the relationship between the two peoples. Hawkswood uses that tension cleverly as a plot mechanism. She also explores the difference between the law and justice, and how one can sometimes seem to be served at the expense of the other. All in all, an excellent read; good as a standalone, but fitting nicely into the series. Recommended.\"<br>&nbsp;<b><a href=\"https://historicalnovelsociety.org\" target=\"_blank\">Historical Novel Society </a></b><br><b><br></b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Extract-servant.html\" data-toolbar=\"-mbrBtnMove\">EXTRACT</a>",
           "_tags": [
             "Theme"
           ],
@@ -6716,8 +6713,7 @@
             "H3": {
               "font-size": "36px",
               "font-family": "'Droid Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
-              "text-align": "left"
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
             },
             "SPAN": {
               "font-family": "'Droid Sans', sans-serif",
@@ -6725,12 +6721,10 @@
             },
             "P": {
               "font-family": "'Droid Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
-              "text-align": "left",
-              "color": "#000000"
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
             }
           },
-          "_anchor": "msg-box5-67"
+          "_anchor": "msg-box5-6g"
         },
         {
           "_inherit": "header1",
