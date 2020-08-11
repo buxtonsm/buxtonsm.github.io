@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BC",
-    "currentPage": "AuthorVideos.html",
+    "currentPage": "audiobooks.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 217,
+    "uniqCompNum": 224,
     "versionPublish": "4.10.8",
     "favicon": "",
     "noImageResize": "",
@@ -139,7 +139,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "msg-box5",
@@ -253,7 +253,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Sarah Hawkswood",
-          "text": "<p>The Bradecote and Catchpoll series, by Sarah Hawkswood, is published by Allison &amp; Busby. They have a chronological order but also work as stand alone stories. There are currently six in print and as ebooks, and the seventh,<b> River of Sins</b>, will be published in November 2020.</p><p><br></p><p>Read the synopses and titles of future investigations in the Novels <a href=\"Books.html\">section</a>. You can read an extract from <b>Servant of Death</b>&nbsp;<a href=\"Extract-servant.html\">here</a>, and the first chapter of <b>Ordeal by Fire</b> <a href=\"Extract-ordeal.html\">here</a>. An extract from the audiobook of <b>Servant of Death</b> can be heard <a href=\"Extract-servant.html\">here</a> and one for&nbsp;<b>Ordeal by Fire</b> is <a href=\"http://www.audible.co.uk/pd/Crime-Thrillers/Ordeal-by-Fire-Audiobook/B01N327TIG\" target=\"_blank\">here</a>. The third and fourth books in the series, <b>Marked to D</b><b style=\"font-size: 1.07rem;\">ie </b><span style=\"font-size: 1.07rem;\">and</span><b style=\"font-size: 1.07rem;\"> Hostage to Fortune </b><span style=\"font-size: 1.07rem;\">are</span><b style=\"font-size: 1.07rem;\">&nbsp;</b><span style=\"font-size: 1.07rem;\">now also available as audiobooks, with the fifth, <b>Vale of Tears</b>, coming out in August 2020</span><span style=\"font-size: 1.07rem;\">.</span></p><p><br></p><p>The Bradecote and Catchpoll series are set in Worcestershire during the Anarchy of King Stephen’s reign, and commence in June 1143. They follow the investigations of Hugh Bradecote, a vassal lord of the Sheriff, William de Beauchamp, and the Sheriff’s Serjeant, the wily Catchpoll. Catchpoll is ‘the professional’, having been ‘serjeanting’ for twenty years. He knows nearly all the low life of Worcester, and works on the principle that outside of thefts for survival and crimes of passion, criminals are mean bastards, and the way to keep crime under control is to prove you are a meaner bastard than they are. He is observant, can think clearly, and is, above all, pragmatic. From the second book they are joined by Walkelin, whom Catchpoll has selected as his 'serjeanting apprentice'.</p><p>\n</p><p><br></p><p><br></p>",
+          "text": "<p>The Bradecote and Catchpoll series, by Sarah Hawkswood, is published by Allison &amp; Busby. They have a chronological order but also work as stand alone stories. There are currently six in print and as ebooks, and the seventh,<b> River of Sins</b>, will be published in November 2020. The eighth and ninth in the series will be published in 2021.</p><p><br></p><p>Read the synopses and titles of future investigations in the Novels <a href=\"Books.html\">section</a>. You can read an extract from <b>Servant of Death</b>&nbsp;<a href=\"Extract-servant.html\">here</a>, and the first chapter of <b>Ordeal by Fire</b> <a href=\"Extract-ordeal.html\">here</a>. An extract from the audiobook of <b>Servant of Death</b> can be heard <a href=\"Extract-servant.html\">here</a> and one for&nbsp;<b>Ordeal by Fire</b> is <a href=\"http://www.audible.co.uk/pd/Crime-Thrillers/Ordeal-by-Fire-Audiobook/B01N327TIG\" target=\"_blank\">here</a>. The third and fourth books in the series, <b>Marked to D</b><b style=\"font-size: 1.07rem;\">ie </b><span style=\"font-size: 1.07rem;\">and</span><b style=\"font-size: 1.07rem;\"> Hostage to Fortune </b><span style=\"font-size: 1.07rem;\">are</span><b style=\"font-size: 1.07rem;\">&nbsp;</b><span style=\"font-size: 1.07rem;\">now also available as audiobooks, with the fifth, <b>Vale of Tears</b>, coming out in August 2020</span><span style=\"font-size: 1.07rem;\">.</span></p><p><br></p><p>The Bradecote and Catchpoll series are set in Worcestershire during the Anarchy of King Stephen’s reign, and commence in June 1143. They follow the investigations of Hugh Bradecote, a vassal lord of the Sheriff, William de Beauchamp, and the Sheriff’s Serjeant, the wily Catchpoll. Catchpoll is ‘the professional’, having been ‘serjeanting’ for twenty years. He knows nearly all the low life of Worcester, and works on the principle that outside of thefts for survival and crimes of passion, criminals are mean bastards, and the way to keep crime under control is to prove you are a meaner bastard than they are. He is observant, can think clearly, and is, above all, pragmatic. From the second book they are joined by Walkelin, whom Catchpoll has selected as his 'serjeanting apprentice'.</p><p>\n</p><p><br></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -390,7 +390,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -771,7 +771,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1018,7 +1018,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1099,7 +1099,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "The Bradecote &amp; Catchpoll audiobooks are published by <a href=\"https://www.isis-publishing.co.uk/catalogsearch/result/?q=Sarah+Hawkswood\" target=\"_blank\">Isis Audiobooks </a>, and are read by Audible Award nominated voice actor&nbsp;<a href=\"http://mattaddis.com\" target=\"_blank\">Matt Addis</a>. Matt brings the stories to life and makes listening an immersive experience. He is a highly acclaimed voice artist as well as having had major roles on stage, such as in the National Theatre's production of War Horse, with which he toured in 2014/15.<br>",
+          "text": "The Bradecote &amp; Catchpoll audiobooks are published by <a href=\"https://www.thereadinghouse.co.uk/search/Sarah%20Hawkswood\" target=\"_blank\">Isis Audiobooks at The Reading House</a>&nbsp;and <a href=\"https://www.audible.co.uk/search?keywords=Sarah+Hawkswood&amp;ref=a_pd_Marked_t1_header_search\" target=\"_blank\">Audible</a>. They are read by Audible Award nominated voice actor&nbsp;<a href=\"http://mattaddis.com\" target=\"_blank\">Matt Addis</a>. Matt brings the stories to life and makes listening an immersive experience. He is a highly acclaimed voice artist as well as having had major roles on stage, such as in the National Theatre's production of War Horse, with which he toured in 2014/15.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -1167,7 +1167,7 @@
             }
           },
           "title": "Servant of Death",
-          "text": "<p>Matt Addis, award nominated audiobook voice artist, gives a brilliant rendition of the first Bradecote &amp; Catchpoll novel, with a cast that sounds so varied it could be a radio play. Hear, in CD/MP3CD, from iTunes and <a href=\"https://www.amazon.co.uk/Servant-Death-Bradecote-Catchpoll/dp/B073V385GL\" target=\"_blank\">Audible download formats</a>,<a href=\"http://www.amazon.co.uk/Servant-Death-Bradecote-Catchpoll/dp/B073V385GL\" target=\"_blank\"></a> how Bradecote and Catchpoll are pushed together in an uneasy alliance to find out who killed Eudo, the lord Bishop of Winchester's clerk and spy.<b></b></p>",
+          "text": "<p>Matt Addis, award nominated audiobook voice artist, gives a brilliant rendition of the first Bradecote &amp; Catchpoll novel, with a cast that sounds so varied it could be a radio play. Whether &nbsp;format from Isis Audiobooks <a href=\"https://www.thereadinghouse.co.uk/browse/9781445066943\" target=\"_blank\">here</a> in CD/MP3CD, or downloaded <a href=\"https://www.amazon.co.uk/Servant-Death-Bradecote-Catchpoll/dp/B073V385GL\" target=\"_blank\" class=\"text-black\">Audible</a>&nbsp;<a href=\"https://www.audible.co.uk/pd/Servant-of-Death-Audiobook/B073V2R9W7\" target=\"_blank\">here</a>,<a href=\"http://www.amazon.co.uk/Servant-Death-Bradecote-Catchpoll/dp/B073V385GL\" target=\"_blank\"></a> how Bradecote and Catchpoll are pushed together in an uneasy alliance to find out who killed Eudo, the lord Bishop of Winchester's clerk and spy.<b></b></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Extract-servant.html\" data-toolbar=\"-mbrBtnMove\">EXTRACT</a>"
         },
         {
@@ -1294,7 +1294,7 @@
             }
           },
           "title": "Ordeal by Fire",
-          "text": "Available in CD/MP3CD, from iTunes and <a href=\"//www.amazon.co.uk/Ordeal-Fire-Bradecote-Catchpoll/dp/B01NCU0CBN\" target=\"_blank\">Audible download formats</a>, Matt Addis brings the words to life off the page, and gives voice to the detecting duo, and of course their new addition, ‘serjeanting apprentice’ Walkelin, with his varied voices and beautifully paced narration.&nbsp;<br>",
+          "text": "Available in CD/MP3CD, from Isis Audiobooks <a href=\"https://www.thereadinghouse.co.uk/browse/9781445061337\" target=\"_blank\">here</a> and Audible download format <a href=\"https://www.audible.co.uk/pd/Ordeal-by-Fire-Audiobook/B01N327TIG\" target=\"_blank\">here</a>, Matt Addis brings the words to life off the page, and gives voice to the detecting duo, and of course their new addition, ‘serjeanting apprentice’ Walkelin, with his varied voices and beautifully paced narration.&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">EXTRACT</a>"
         },
         {
@@ -1401,7 +1401,7 @@
             }
           },
           "title": "Marked to Die",
-          "text": "The audiobook of Marked to Die, yet again read by the superb Matt Addis, is available from Isis Audiobooks as both CD and CD/MP3 <a href=\"https://www.isis-publishing.co.uk/marked-to-die-15278\" target=\"_blank\">here</a> and is also available for download from Auidble. You can listen to a <a href=\"https://soundcloud.com/ulverscroft/marked-to-die-by-sarah-hawkswood\" target=\"_blank\">sample</a>.",
+          "text": "The audiobook of Marked to Die, yet again read by the superb Matt Addis, is available from Isis Audiobooks as both CD and CD/MP3 <a href=\"https://www.thereadinghouse.co.uk/search/9781445078557\" target=\"_blank\">here</a> and is also available for download from <a href=\"https://www.audible.co.uk/pd/Marked-to-Die-Audiobook/1445078570\" target=\"_blank\">Audible</a>. You can listen to a <a href=\"https://soundcloud.com/ulverscroft/marked-to-die-by-sarah-hawkswood\" target=\"_blank\">sample</a>.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">EXTRACT</a>",
           "_tags": [
             "Theme"
@@ -1470,7 +1470,7 @@
             }
           },
           "title": "Hostage to Fortune",
-          "text": "The audiobook of the fourth Bradecote &amp; Catchpoll, Hostage to Fortune, read by 'the voice of Bradectote &amp; Catchpoll', Matt Addis, is available from Isis Audiobooks as both CD and CD/MP3 and is also available as a download from Audible.",
+          "text": "The audiobook of the fourth Bradecote &amp; Catchpoll, Hostage to Fortune, read by 'the voice of Bradecote &amp; Catchpoll', Matt Addis, is available from Isis Audiobooks as both CD and CD/MP3 <a href=\"https://www.thereadinghouse.co.uk/browse/9781445086507\" target=\"_blank\">here</a> and is also available as a download from Audible <a href=\"https://audible.co.uk/pd/Hostage-to-Fortune-Audiobook/1445086522\" target=\"_blank\">here</a>.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">EXTRACT</a>",
           "_tags": [
             "Theme"
@@ -1494,6 +1494,75 @@
             }
           },
           "_anchor": "msg-box5-5b"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "32",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "../../app/themes/mobirise3/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#d2c28d",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/vale-of-tears-cd-480x480.jpg",
+              "link": "https://www.isis-publishing.co.uk/marked-to-die-15278",
+              "alt": "knight on horseback",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Vale of Tears",
+          "text": "The audiobook of Vale of Tears, the fifth Bradecote &amp; Catchpoll novel, yet again read by the incomparable Matt Addis, is available from Isis Audiobooks as both CD and CD/MP3 <a href=\"https://www.thereadinghouse.co.uk/browse/9781445092805\" target=\"_blank\">here</a> and is available for download from Audible<a href=\"https://audible.co.uk/pd/Vale-of-Tears-Audiobook/1445092832\" target=\"_blank\"> here</a>. <br><br>&nbsp;Listen to a sample <a href=\"https://soundcloud.com/ulverscroft/vale-of-tears-by-sarah-hawkswood\" target=\"_blank\">here</a> &nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">EXTRACT</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "36px",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "text-align": "left"
+            },
+            "SPAN": {
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
+            },
+            "P": {
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box5-61"
         },
         {
           "_inherit": "header1",
@@ -1565,6 +1634,144 @@
           },
           "title": "News",
           "meta": "Keep up with the latest news on Bradecote and Catchpoll"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "32",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "../../app/themes/mobirise3/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#d2c28d",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/knightbrown-379x575.jpg",
+              "link": "https://www.isis-publishing.co.uk/marked-to-die-15278",
+              "alt": "knight on horseback",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Two more Bradecote &amp; Catchpoll novels for 2021",
+          "text": "11 August 2020. The eighth and ninth Bradecote &amp; Catchpoll novels will be published by Allison &amp; Busby in 2021 in both paperback and ebook formats.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">EXTRACT</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "36px",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "text-align": "left"
+            },
+            "SPAN": {
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
+            },
+            "P": {
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box5-65"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "32",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "../../app/themes/mobirise3/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#d2c28d",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/knightbrown-379x575.jpg",
+              "link": "https://www.isis-publishing.co.uk/marked-to-die-15278",
+              "alt": "knight on horseback",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Vale of Tears Audiobook is out on 1 August 2020",
+          "text": "The audiobook of Vale of Tears, as ever brought to life by the superb Matt Addis, is available from Isis Audiobooks as both CD and CD/MP3 &nbsp;from Isis Audiobooks and dowloadable from Audible. See the Audiobooks page for links.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">EXTRACT</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "36px",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "text-align": "left"
+            },
+            "SPAN": {
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
+            },
+            "P": {
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box5-64"
         },
         {
           "_params": {
@@ -2180,7 +2387,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "msg-box8",
@@ -2557,7 +2764,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -2730,7 +2937,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -2931,7 +3138,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -3155,7 +3362,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -3257,7 +3464,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -3434,7 +3641,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -3611,7 +3818,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -3788,7 +3995,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -3965,7 +4172,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -4314,7 +4521,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -4495,7 +4702,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -5036,7 +5243,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -5171,7 +5378,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -5306,7 +5513,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -5404,7 +5611,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -5865,7 +6072,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/faithful-unto-death-418x641.jpg",
+              "src": "@PROJECT_PATH@/assets/images/knightbrown-379x575.jpg",
               "link": "",
               "alt": "knight on horseback",
               "title": ""
@@ -5948,7 +6155,7 @@
             "paddingBottom": 1,
             "bgColor": "#d2c28d"
           },
-          "text": "<ul><li>Harvest of Souls</li><li>Wolf at the Door</li></ul>"
+          "text": "<ul><li>Blood Runs Thicker</li><li>Wolf at the Door</li></ul>"
         },
         {
           "_inherit": "header1",
@@ -6084,7 +6291,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -6342,7 +6549,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/faithful-unto-death-418x641.jpg",
+              "src": "@PROJECT_PATH@/assets/images/hostage-to-fortune-ebook-417x641.jpg",
               "link": "",
               "alt": "knight on horseback",
               "title": ""
@@ -6360,7 +6567,7 @@
             }
           },
           "title": "Hostage to Fortune",
-          "text": "\"Hostage to Fortune is the fourth in the Bradecote and Catchpoll mysteries and this is a series that started well and grows stronger all the time. Both characterisation and historical detail are impeccable and the plot is intriguing and cleverly interwoven. . . Hostage to Fortune is a thoroughly enjoyable read, whch I recommend.\"<br><a href=\"https://promotingcrime.blogspot.com/2020/03/hostage-to-fortune-by-sarah-hawkswood.html\">&nbsp;Carol Westron- Mystery People</a><br><br><br><br>\"I wasn't disappointed. The plot tears along without the hint of formula, and the characters are sympathetically drawn and believable. The author's historical background shines through- this is one of my favourite eras of history, and I'm picky about the detail; this is flawless, nuanced, rich. If you're looking for something reminiscent of the Ellis Peters' books, but in a lay context and therefore with the opportunity for strong female leads, you'll enjoy this.\"<br><a href=\"https://historicalnovelsociety.org\">Historical Novels Review</a>",
+          "text": "\"Hostage to Fortune is the fourth in the Bradecote and Catchpoll mysteries and this is a series that started well and grows stronger all the time. Both characterisation and historical detail are impeccable and the plot is intriguing and cleverly interwoven. . . Hostage to Fortune is a thoroughly enjoyable read, whch I recommend.\"<br><a href=\"https://promotingcrime.blogspot.com/2020/03/hostage-to-fortune-by-sarah-hawkswood.html\">&nbsp;Carol Westron- Mystery People</a><br><br><br><br>\"I wasn't disappointed. The plot tears along without the hint of formula, and the characters are sympathetically drawn and believable. The author's historical background shines through- this is one of my favourite eras of history, and I'm picky about the detail; this is flawless, nuanced, rich. If you're looking for something reminiscent of the Ellis Peters' books, but in a lay context and therefore with the opportunity for strong female leads, you'll enjoy this.\"<br><a href=\"https://historicalnovelsociety.org\">Historical Novel Society Review</a><br><br><br><a href=\"https://historicalnovelsociety.org\"><br></a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">EXTRACT</a>",
           "_tags": [
             "Theme"
@@ -6384,6 +6591,146 @@
             }
           },
           "_anchor": "msg-box5-5c"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "32",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "../../app/themes/mobirise3/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#d2c28d",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/faithful-unto-death-418x641.jpg",
+              "link": "",
+              "alt": "knight on horseback",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Vale of Tears",
+          "text": "\"This is again a thoroughly believable mediaeval tale, with every detail ringing true, down to the colour and breeding of the horses. The plot twists along nicely, with just the right amount of surprise, several bodies, and very little blood – although plenty of suspects, plus innocent villagers, whose stories are woven in well. The satisfactorily villainous baddie turns out to have a grain of goodness in him after all, and we are almost sorry to see him led off to trial…<br><br>Ms Hawkswood clearly knows her stuff, both as a historian and a crafter of mysteries.\" <br>Historical Novel Society Review<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">EXTRACT</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "36px",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "text-align": "left"
+            },
+            "SPAN": {
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
+            },
+            "P": {
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "text-align": "left",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "msg-box5-66"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "32",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "../../app/themes/mobirise3/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#d2c28d",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/faithful-unto-death-418x641.jpg",
+              "link": "",
+              "alt": "knight on horseback",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Faithful unto Death",
+          "text": "\"I think this is my favourite of the series so far, as the story twists and turns through the politics of both England and Wales, and the varied depths of loyalty owed, and paid, between servant and Lord, man and wife, mother and sons. . . Hawkswood has explored how the dynamics of a whole manor’s-worth of people could play out in unexpected ways, leading to onion layers of clues, and a surprising but satisfying ending. I particularly enjoyed the glimpses given into the differences between Welsh and English law at the time, and the relationship between the two peoples. Hawkswood uses that tension cleverly as a plot mechanism. She also explores the difference between the law and justice, and how one can sometimes seem to be served at the expense of the other. All in all, an excellent read; good as a standalone, but fitting nicely into the series. Recommended.\"<br>Historical Novel Society Review",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">EXTRACT</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "36px",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "text-align": "left"
+            },
+            "SPAN": {
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
+            },
+            "P": {
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "text-align": "left",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "msg-box5-67"
         },
         {
           "_inherit": "header1",
@@ -6518,7 +6865,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sarah Hawkswood</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"author.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Author</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"author.html\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthorVideos.html\">Meet the Author videos<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Books.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Novels&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Books.html\">Books</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">Reviews</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"audiobooks.html\">Audio Books</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"background.html\">Background</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">News</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-5q"
         },
         {

@@ -717,6 +717,9 @@ h6,
 
 
 
+
+
+
 #menu-15 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -840,6 +843,18 @@ h6,
   font-family: 'Droid Sans', sans-serif;
   text-align: left;
 }
+#msg-box5-61 H3 {
+  font-size: 36px;
+  font-family: 'Droid Sans', sans-serif;
+  text-align: left;
+}
+#msg-box5-61 SPAN {
+  font-family: 'Droid Sans', sans-serif;
+}
+#msg-box5-61 P {
+  font-family: 'Droid Sans', sans-serif;
+  text-align: left;
+}
 #header5-3m .mbr-section-title {
   color: #000;
 }
@@ -875,12 +890,42 @@ h6,
 
 
 
+
+
+
+
+
+
 #header3-19 .mbr-section-title,
 #header3-19 .mbr-section-subtitle {
   text-align: center;
 }
 #header3-19 H3 {
   font-family: 'Montserrat', sans-serif;
+}
+#msg-box5-65 H3 {
+  font-size: 36px;
+  font-family: 'Droid Sans', sans-serif;
+  text-align: left;
+}
+#msg-box5-65 SPAN {
+  font-family: 'Droid Sans', sans-serif;
+}
+#msg-box5-65 P {
+  font-family: 'Droid Sans', sans-serif;
+  text-align: left;
+}
+#msg-box5-64 H3 {
+  font-size: 36px;
+  font-family: 'Droid Sans', sans-serif;
+  text-align: left;
+}
+#msg-box5-64 SPAN {
+  font-family: 'Droid Sans', sans-serif;
+}
+#msg-box5-64 P {
+  font-family: 'Droid Sans', sans-serif;
+  text-align: left;
 }
 #msg-box5-58 H3 {
   font-size: 36px;
@@ -2390,6 +2435,12 @@ h6,
 
 
 
+
+
+
+
+
+
 #menu-4k .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2503,6 +2554,32 @@ h6,
 #msg-box5-5c P {
   font-family: 'Droid Sans', sans-serif;
   text-align: left;
+}
+#msg-box5-66 H3 {
+  font-size: 36px;
+  font-family: 'Droid Sans', sans-serif;
+  text-align: left;
+}
+#msg-box5-66 SPAN {
+  font-family: 'Droid Sans', sans-serif;
+}
+#msg-box5-66 P {
+  font-family: 'Droid Sans', sans-serif;
+  text-align: left;
+  color: #000000;
+}
+#msg-box5-67 H3 {
+  font-size: 36px;
+  font-family: 'Droid Sans', sans-serif;
+  text-align: left;
+}
+#msg-box5-67 SPAN {
+  font-family: 'Droid Sans', sans-serif;
+}
+#msg-box5-67 P {
+  font-family: 'Droid Sans', sans-serif;
+  text-align: left;
+  color: #000000;
 }
 #header5-4r .mbr-section-title {
   color: #000;
